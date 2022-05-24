@@ -1,18 +1,1 @@
-getgenv().Settings = {
-    ['Made By JoJo#2494'] = {
-     -- Script Maade By JoJo#2494 + matters#0126
-        CHECK = {OWNER = "xNinjaMarvin1", STAND = "93850je"}, --/ Do not use UserId.
-        FPS = 60, --/ Will control FPS can improve the overall performance on both instances when set to lower.
-        PERFORMANCE = false, --/ If set to true it'll significantly improve your overall FPS if you're struggling with performance.
-        NOCLIP = {SynapseX = false, Offset = -3.05}, --/ Offset will control the height of normal noclip (keep unchanged unless you're using titan with a big character / SynapseX option).
-        FACELESS = true, --/ If you want to remove your face.
-        TRAILS = true, --/ If you want to remove the white trail when charge attacking.
-        LEGS = false, --/ If set to true it'll remove your legs.
-        ANTIFLING = true, --/ If set to true you can't get flinged nor can you fling anyone.
-        TELEPORTMAIN = true, --/ Teleports to the stand user
-        RANGE = 50, --/ Controls the melee reach range (50 is max).
-        TITAN = {ENABLED = true , GODV3 = true}, --/ Titan requires a buff body & god-v3/titan-god will only work if you execute instantly after joining.
-        FOLLOWANIM = {true, ID = 3541044388, SPEED = 0.25}, --/ If set to true will play the desired animation when moving (DEFAULT ANIMATION IS SUGGESTED), SPEED will control the speed (Recommended is 0.25).
-    }
-}
-loadstring(game:HttpGet("https://pastebin.com/raw/cF9J27qu"))()
+https://pastebin.com/raw/BhufP3Lz
